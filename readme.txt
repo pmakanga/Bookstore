@@ -59,7 +59,7 @@ Create Asp.NetCore Api
 ======================
 dotnet  new webapi –o BookstoreAPI –n BookstoreAPI
 
-Install the following Packages (ignore versions)
+Install the following Packages (ignore versions, but specify Automapper version i.e. 5.0.1)
 ================================================
 dotnet add package Microsoft.EntityFrameworkCore.Tools -v 2.1.2
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer -v 2.1.2
@@ -113,7 +113,7 @@ app.UseAuthentication();
 
 Generate Models and Context from Microsoft SQL Server Database
 ==============================================================
-dotnet ef dbcontext scaffold "Server=HP-840\SQLEXPRESS;Database=BookStore;Trusted_Connection=True;User Id=sa;Password=edmondb;Integrated Security=false;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+dotnet ef dbcontext scaffold "Server=HP-840\SQLEXPRESS;Database=BookStore;Trusted_Connection=True;User Id=sa;Password=sss;Integrated Security=false;" Microsoft.EntityFrameworkCore.SqlServer -o Models
 
 
 

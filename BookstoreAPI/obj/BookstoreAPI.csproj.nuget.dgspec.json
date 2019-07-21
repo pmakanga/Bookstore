@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\BookstoreAPI\\BookstoreAPI.csproj": {}
+    "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\bookstoreapi\\BookstoreAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\BookstoreAPI\\BookstoreAPI.csproj": {
+    "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\bookstoreapi\\BookstoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\BookstoreAPI\\BookstoreAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\bookstoreapi\\BookstoreAPI.csproj",
         "projectName": "BookstoreAPI",
-        "projectPath": "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\BookstoreAPI\\BookstoreAPI.csproj",
+        "projectPath": "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\bookstoreapi\\BookstoreAPI.csproj",
         "packagesPath": "C:\\Users\\partric\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\BookstoreAPI\\obj\\",
+        "outputPath": "D:\\Projects\\DotNETCore\\2019\\BookstoreNgAuth\\bookstoreapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
