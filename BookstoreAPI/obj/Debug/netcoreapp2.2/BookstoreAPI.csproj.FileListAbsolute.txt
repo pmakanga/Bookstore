@@ -1,0 +1,14 @@
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\bin\Debug\netcoreapp2.2\BookstoreAPI.deps.json
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\bin\Debug\netcoreapp2.2\BookstoreAPI.runtimeconfig.json
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\bin\Debug\netcoreapp2.2\BookstoreAPI.runtimeconfig.dev.json
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\bin\Debug\netcoreapp2.2\BookstoreAPI.dll
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\bin\Debug\netcoreapp2.2\BookstoreAPI.pdb
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.csprojAssemblyReference.cache
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.csproj.CoreCompileInputs.cache
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.RazorAssemblyInfo.cache
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.RazorAssemblyInfo.cs
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.AssemblyInfoInputs.cache
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.AssemblyInfo.cs
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.RazorTargetAssemblyInfo.cache
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.dll
+D:\Projects\DotNETCore\2019\BookstoreNgAuth\BookstoreAPI\obj\Debug\netcoreapp2.2\BookstoreAPI.pdb
